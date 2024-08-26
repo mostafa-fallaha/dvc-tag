@@ -1,5 +1,5 @@
 outs:
-- md5: 5de88e95db150280b24752ec364db9fe
-  size: 203
+- md5: 61efd6a7dc231b4c6af22281f4493bca
+  size: 196
   hash: md5
   path: categories.csv
